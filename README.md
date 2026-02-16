@@ -141,7 +141,7 @@ Typical workflow:
 3. Combine segments
 4. Add audio / transitions
 
-You can either upload the npy and pickle files in this repo onto the notebook and run as such, or upload your own similar data and obtain a different output for your own creative work.
+   You can either upload the npy and pickle files in this repo onto the notebook and run as such, or upload your own similar data and obtain a different output for your own creative work.
 ---
 
 ## Theoretical Orientation
@@ -174,7 +174,7 @@ digital humanities performance
 
 ## Citation
 
-If you use or reference this work, please cite both:
+If you use or reference this work, please cite (either of, or preferably both...):
 
 * analytical repository: https://github.com/Margento/GraphPoem-DHSI 
 * creative repository: https://github.com/Margento/GraphPoem-DHSI-Singularity-Creative 
