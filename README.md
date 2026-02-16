@@ -127,6 +127,8 @@ Primary operations:
 Clone repository:
 
 git clone https://github.com/Margento/GraphPoem-DHSI-Singularity-Creative.git
+
+
 cd GraphPoem-DHSI-Singularity-Creative
 
 
