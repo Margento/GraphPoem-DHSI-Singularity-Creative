@@ -3,7 +3,6 @@
 
 ---
 
-# README — GraphPoem DHSI Singularity (Creative)
 
 ## GraphPoem DHSI Singularity — Creative Panphrastic Transmediation
 
