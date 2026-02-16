@@ -52,11 +52,11 @@ The present repository takes those topologies as **material for artistic renderi
 
 If the analytical project asks:
 
-> What topologies exist in poetic corpora?
+What topologies exist in poetic corpora?
 
 this project asks:
 
-> What do those topologies *feel like*?
+What do those topologies *feel like*?
 
 ---
 
