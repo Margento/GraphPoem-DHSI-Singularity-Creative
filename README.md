@@ -3,7 +3,6 @@
 
 ---
 
-
 ## GraphPoem DHSI Singularity — Creative Panphrastic Transmediation
 
 This repository contains the **creative audiovisual realisation** built from the analytical modeling developed in the companion project:
