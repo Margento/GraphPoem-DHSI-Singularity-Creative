@@ -163,13 +163,21 @@ It treats analytical models not as endpoints but as **performative structures** 
 ## Keywords
 
 panphrasis
+
 transmediation
+
 #GraphPoem
+
 intersemiotic translation
+
 intermedia translation
+
 computational poetics
+
 generative cinema
+
 graph aesthetics
+
 digital humanities performance
 
 ---
@@ -178,7 +186,7 @@ digital humanities performance
 
 If you use or reference this work, please cite (either of, or preferably both...):
 
-* analytical repository: https://github.com/Margento/GraphPoem-DHSI 
+* analytical repository: https://github.com/Margento/GraphPoem-DHSI  
 * creative repository: https://github.com/Margento/GraphPoem-DHSI-Singularity-Creative 
 
 ---
